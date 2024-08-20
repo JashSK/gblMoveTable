@@ -4,7 +4,7 @@
 // @version      2023-12-05
 // @description  try to take over the world!
 // @author       You
-// @match        https://pvpoke.com/moves/*
+// @match        https://pvpoke.com/*moves/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=pvpoke.com
 // @grant        none
 // ==/UserScript==
